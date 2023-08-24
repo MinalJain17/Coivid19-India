@@ -15,3 +15,6 @@
 7. Summarized dashboard available in "main_dashboard.xlsx" featuring interactive components.
 
 8. Presented findings and data analysis in "project_presenation" for comprehensive understanding.
+
+Tools Used-
+![262564266-66ef775d-9f43-4ea1-b519-e8fd98f19ae4](https://github.com/MinalJain17/Covid19-India/assets/132137245/3f23fb5e-8be4-41b9-afda-87d3d3664a57)
