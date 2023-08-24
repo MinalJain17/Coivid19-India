@@ -1,8 +1,10 @@
 + Two JSON-format datasets concerning the COVID-19 pandemic were utilized for data extraction and analysis.
 
-      Dataset 1 can be accessed through the following link:https://data.covid19india.org/v4/min/data.min.json
+      Dataset 1 can be accessed through the following link:
+      https://data.covid19india.org/v4/min/data.min.json
    
-      Dataset 2 can be accessed through the following link:https://data.covid19india.org/v4/min/timeseries.min.json
+      Dataset 2 can be accessed through the following link:
+      https://data.covid19india.org/v4/min/timeseries.min.json
 
 + Utilized Python to extract data and transform it into CSV format from JSON files.Python Libraries Used: Pandas, Requests, Numpy, and JSON
 
