@@ -2,7 +2,7 @@
 
       Dataset 1 can be accessed through the following link:
       https://data.covid19india.org/v4/min/data.min.json
-   
+
       Dataset 2 can be accessed through the following link:
       https://data.covid19india.org/v4/min/timeseries.min.json
 
@@ -17,6 +17,15 @@
 + Summarized dashboard available in "main_dashboard.xlsx" featuring interactive components.
 
 + Presented findings and data analysis in "project_presenation" for comprehensive understanding.
+
+DashBoard-
+
+![1](https://github.com/MinalJain17/Covid19-India/assets/132137245/0012ee22-5bc9-4932-a8d7-2159fcc85c6b)
+
+![2](https://github.com/MinalJain17/Covid19-India/assets/132137245/0b91f0bf-a31d-4a52-9898-953febcd9fbb)
+
+![3](https://github.com/MinalJain17/Covid19-India/assets/132137245/40cedf1e-f087-4a92-9cea-76f1d6a30fbb)
+
 
 Tools Used-
 
