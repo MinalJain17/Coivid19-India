@@ -57,4 +57,7 @@ Imported data into Excel and crafted an interactive Excel Dashboard, leveraging 
 
 # Challenges and Learnings
 
-API handling, working with JSON data, and creating impactful presentation.
+1. JSON Data Extraction: Overcame complexity in extracting COVID-19 data from nested JSON structures and API handling.
+2. Data Cleaning: Addressed missing values and data inconsistencies to ensure accurate analysis.
+3. Code Optimization: Enhanced efficiency in handling and analyzing large COVID-19 datasets.
+4. Domain Understanding: Deepened knowledge of public health and epidemiology through data analysis.
