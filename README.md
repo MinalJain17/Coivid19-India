@@ -22,8 +22,13 @@ https://data.covid19india.org/v4/min/timeseries.min.json
 DATA CLEANING/PREPROCESSING :
 
 1. Utilized Python libraries including Pandas, JSON, and Requests to extract API data and convert it into a CSV format.
+    ![Screenshot (116)](https://github.com/MinalJain17/Exploratory_Analysis_Covid19/assets/132137245/a96e6366-4277-4547-b995-f4efd24236fa)
+
+    ![Screenshot (117)](https://github.com/MinalJain17/Exploratory_Analysis_Covid19/assets/132137245/1d5c38d1-410c-4be0-8efe-b55e9a6263ed)
+
 2. Conducted data cleaning, addressing null values and noise in the dataset.
 3. Generated separate CSV files for state, district, and time-series data and conducted a comprehensive analysis using SQL.
+    ![Screenshot (118)](https://github.com/MinalJain17/Exploratory_Analysis_Covid19/assets/132137245/8a3fced1-b566-4d25-8010-584c9aef0954)
 
 
 DASHBOARD :
