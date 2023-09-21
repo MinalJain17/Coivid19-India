@@ -1,14 +1,14 @@
-# OBJECTIVE
+# Objective
 
 The project's goal is to develop an interactive dashboard for in-depth analysis of COVID-19 data across Indian states, offering valuable insights for users to explore various timeframes and pandemic-related features interactively.
 
 
-# TECH STACKS
+# Tech Stack
 
 Python | SQL | Excel | MS PowerPoint
 
 
-# DATA DESCRIPTION
+# Data Description
 
 Used official COVID-19 India API.
 
@@ -19,7 +19,7 @@ Dataset 2:
 https://data.covid19india.org/v4/min/timeseries.min.json
 
 
-# DATA CLEANING AND PREPROCESSING
+# Data preprocessing
 
 1. Utilized Python libraries including Pandas, JSON, and Requests to extract API data and convert it into a CSV format.
     ![Screenshot (116)](https://github.com/MinalJain17/Exploratory_Analysis_Covid19/assets/132137245/a96e6366-4277-4547-b995-f4efd24236fa)
@@ -31,7 +31,7 @@ https://data.covid19india.org/v4/min/timeseries.min.json
     ![Screenshot (118)](https://github.com/MinalJain17/Exploratory_Analysis_Covid19/assets/132137245/8a3fced1-b566-4d25-8010-584c9aef0954)
 
 
-# DASHBOARD
+# Dashboard
 
 Imported data into Excel and crafted an interactive Excel Dashboard, leveraging pivot tables, diverse Excel formulas, slicers, themes, charts, formatting, and more.
 
@@ -42,7 +42,7 @@ Imported data into Excel and crafted an interactive Excel Dashboard, leveraging 
    ![3](https://github.com/MinalJain17/Covid19-India/assets/132137245/40cedf1e-f087-4a92-9cea-76f1d6a30fbb)
 
 
-# INSIGHTS
+# Insights
 
 1. Between January 2020 and October 2021, India witnessed a total of 34 million COVID-19 cases, with approximately 450,000 individuals losing their lives as a result of the virus.
 2. India experienced its initial COVID-19 wave in March 2020, peaking in September of the same year, followed by a gradual decline. A second wave occurred in March 2021, reaching its zenith in May, resulting in a significant surge in cases.
@@ -55,6 +55,6 @@ Imported data into Excel and crafted an interactive Excel Dashboard, leveraging 
    ![Slide-5](https://github.com/MinalJain17/Exploratory_Analysis_Covid19/assets/132137245/8383ec26-b02a-4016-89ad-5f544d4f02c3)
 
 
-# CHALLENGES AND KEY LEARNINGS
+# Challenges and Learnings
 
 API handling, working with JSON data, and creating impactful presentation.
