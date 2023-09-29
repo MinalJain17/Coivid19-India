@@ -12,10 +12,10 @@ Python | SQL | Excel | MS PowerPoint
 
 Used official COVID-19 India API.
 
-Dataset 1:
+Dataset 1: It comprises data at both the state and district levels, encompassing figures for confirmed cases, recoveries, testing, population, and vaccinations.
 https://data.covid19india.org/v4/min/data.min.json
 
-Dataset 2:
+Dataset 2: It contains daily information aggregated at the country level, covering the period from March 2020 to October 2021.
 https://data.covid19india.org/v4/min/timeseries.min.json
 
 
